@@ -22,3 +22,5 @@
 1. [比原是如何转帐的？](https://github.com/freewind/bytom.win/blob/master/115.%E5%89%A5%E5%BC%80%E6%AF%94%E5%8E%9F%E7%9C%8B%E4%BB%A3%E7%A0%81-%E6%AF%94%E5%8E%9F%E6%98%AF%E5%A6%82%E4%BD%95%E8%BD%AC%E5%B8%90%E7%9A%84.md)
 1. [比原是如何通过`/list-transactions'显示交易信息的？](https://github.com/freewind/bytom.win/blob/master/116.%E5%89%A5%E5%BC%80%E6%AF%94%E5%8E%9F%E7%9C%8B%E4%BB%A3%E7%A0%81-%E6%AF%94%E5%8E%9F%E6%98%AF%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E4%BA%A4%E6%98%93%E4%BF%A1%E6%81%AF%E7%9A%84.md)
 1. [比原是如何显示交易的详细信息的？](https://github.com/freewind/bytom.win/blob/master/117.%E5%89%A5%E5%BC%80%E6%AF%94%E5%8E%9F%E7%9C%8B%E4%BB%A3%E7%A0%81-%E6%AF%94%E5%8E%9F%E6%98%AF%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E4%BA%A4%E6%98%93%E7%9A%84%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E7%9A%84.md)
+
+注：由于个人原因，该系列的文章将不再更新，所以很遗憾，我最初的目标“对比原核心代码进行分析”做不到了。对于比原代码的爱好者来说，前面的这些文章应该已经足够支撑到独立对代码进行分析简单的分析了。但是对于比原的核心代码，可能还需要先阅读其它有比较多的资料的区块链（如比特币等），然后再回过头来看可能比较好。
