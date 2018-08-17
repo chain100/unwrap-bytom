@@ -24,25 +24,3 @@
 1. [比原是如何显示交易的详细信息的？](https://github.com/freewind/bytom.win/blob/master/117.%E5%89%A5%E5%BC%80%E6%AF%94%E5%8E%9F%E7%9C%8B%E4%BB%A3%E7%A0%81-%E6%AF%94%E5%8E%9F%E6%98%AF%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E4%BA%A4%E6%98%93%E7%9A%84%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E7%9A%84.md)
 
 注：由于个人原因，该系列的文章将不再更新，所以很遗憾，我最初的目标“对比原核心代码进行分析”做不到了。对于比原代码的爱好者来说，前面的这些文章应该已经足够支撑到独立对代码进行分析简单的分析了。但是对于比原的核心代码，可能还需要先阅读其它有比较多的资料的区块链（如比特币等），然后再回过头来看可能比较好。
-
-
----
-
-如果你觉得这些文章对你非常有用，控制不住想打赏作者，可以有以下选择：
-
-1. 打赏BTM: 
-    1. erc20地址：`0x38280e0fc354cFe463Cd82BE4e72688cB1bC42E7`
-    2. Bytom主网地址：`bm1qsgyuhqhj83matmstfvaqa6078kupvlkrs2pcht`
-    3. 注意区分，千万不要弄错了
-2. 打赏FT: `0x4781c535c75e36cfe58933903ecf2d7fc907792c`
-3. 打赏LOOM: `0x38280e0fc354cFe463Cd82BE4e72688cB1bC42E7`
-4. 打赏ONT: `Ae7refCHFcYVHYnhFicT5xvqPJ9ia6YNP2`
-5. 打赏ZIL: `0x38280e0fc354cFe463Cd82BE4e72688cB1bC42E7`
-6. 打赏LRC: `0x38280e0fc354cFe463Cd82BE4e72688cB1bC42E7`
-7. 打赏BNB: `0x3307d9b9d46ce9593efc764e66ea13590c9be627`
-8. BTC：`19MpEEmNWBpo3bmqFyD6vxJyrx35xdBjom`
-9. ETH: `0x38280e0fc354cFe463Cd82BE4e72688cB1bC42E7`
-
-多少请随意，心意最重要，我们一起努力吧！还有我支持的数字货币们，你们也要加油！
-
-另外，欢迎使用我的推荐链接注册FCoin: <https://www.fcoin.com/i/Nybzz>，与FCoin一起改变世界。
